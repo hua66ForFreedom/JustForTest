@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T09:13:33.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="0-RYvx4MuF7enNzZQR5y" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T09:16:58.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="D1GHUVlWYbYJsAkVq4fn" version="14.8.0" type="github">
   <diagram id="aJjgu968Vq-au6hg9y1u" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,9 +36,6 @@
             <mxPoint x="292.75" y="160" as="sourcePoint" />
             <mxPoint x="292.75" y="250" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dPUVTBNXQHpE9e4aYWHR-11" value="数据代理服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="117.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
