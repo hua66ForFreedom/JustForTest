@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T06:40:49.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.0" etag="LUQEFN2RbyaqrAgFISfC" type="github"><diagram id="7RV-JXj0QohSXe9jy3x7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-21T08:27:17.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="EWr09DWxxJd09hU3thFt" version="14.8.0" type="github">
+  <diagram id="7RV-JXj0QohSXe9jy3x7" name="Page-1">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-1" value="加解密" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="394" y="355" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-2" value="文件处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="394" y="275" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-3" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="394" y="435" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-4" value="face ticket&lt;br&gt;管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="254" y="275" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-5" value="风控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="145" y="385" width="199" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-6" value="活体接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="254" y="435" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-9" value="公安接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="145" y="435" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-10" value="识别业务方&lt;br&gt;配置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="145" y="275" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-11" value="数据业务方&lt;br&gt;身份校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-12" value="网关接入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-13" value="数据查询" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-14" value="加解密" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-15" value="文件导出上传" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-16" value="预览文件生成" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="620" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-17" value="限流" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="710" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="229" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="260" width="130" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yo01lzhlXYtrN9kHpcZc-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="224" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
